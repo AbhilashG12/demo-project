@@ -1,0 +1,23 @@
+
+.btns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    
+}
+.btns button{
+    width: 100px;
+    height: 40px;
+    margin: 20px;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 100px;
+}

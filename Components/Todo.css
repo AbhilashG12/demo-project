@@ -1,0 +1,40 @@
+/* body{
+    background: burlywood;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.todo-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#inp{
+    width: 300px;
+    height: 30px;
+    border-radius: 20px;
+    border: 2px solid white;
+}
+#btn{
+    width: 70px;
+    height: 30px;
+    border-radius: 20px;
+    border: 2px solid white;
+}
+#btn:hover{
+    background-color: aliceblue;
+    border: 2px solid whitesmoke;
+}
+#listitem{
+
+width: 200px;
+height: 40px;
+}
+#delbtn{
+    width: 70px;
+    height: 30px;
+    border-radius: 20px;
+    border: 2px solid white;
+} */
